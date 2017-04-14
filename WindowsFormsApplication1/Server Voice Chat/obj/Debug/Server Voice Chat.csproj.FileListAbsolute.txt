@@ -1,0 +1,5 @@
+E:\Write Game\WindowsFormsApplication1\Server Voice Chat\bin\Debug\Server Voice Chat.exe.config
+E:\Write Game\WindowsFormsApplication1\Server Voice Chat\bin\Debug\Server Voice Chat.exe
+E:\Write Game\WindowsFormsApplication1\Server Voice Chat\bin\Debug\Server Voice Chat.pdb
+E:\Write Game\WindowsFormsApplication1\Server Voice Chat\obj\Debug\Server Voice Chat.exe
+E:\Write Game\WindowsFormsApplication1\Server Voice Chat\obj\Debug\Server Voice Chat.pdb
